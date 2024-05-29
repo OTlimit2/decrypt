@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+*.pyc
+input
+output
+keys
+virtualenv
+build
+dist
+*.spec
